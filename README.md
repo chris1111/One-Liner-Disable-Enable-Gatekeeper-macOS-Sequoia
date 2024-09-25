@@ -11,6 +11,14 @@ After the Restart macOS Sequoia System
 ![Anywhere](https://github.com/user-attachments/assets/3fac82d6-8f87-43dc-b4a7-ed5f540c4fbc)
 
 
+<p align="center">
+  
+![Anywhere-1](https://github.com/user-attachments/assets/1d829c09-162f-44b4-8ae6-4a3f6668bc8b)
+
+</p>
+
+----------------------------------
+
 
 - [x] `Enable Gatekeeper:`
 ```bash
