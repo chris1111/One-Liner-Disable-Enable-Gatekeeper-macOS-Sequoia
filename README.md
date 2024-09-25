@@ -1,5 +1,6 @@
 # One-Liner-Disable-Enable-Gatekeeper-macOS-Sequoia
 - After using the command, system will shutdown in 10 secounds. Restart the Machine to take effect.
+- Do not use with any other similar tools.
 
 - [x] `Disable Gatekeeper:`
 ```bash
